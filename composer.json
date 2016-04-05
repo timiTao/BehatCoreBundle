@@ -1,0 +1,21 @@
+{
+    "name": "timitao/behat-core-bundle",
+    "license": "MIT",
+    "type": "project",
+    "description": "Behat client connect S3 to Behat, no other way",
+    "autoload": {
+        "psr-4": { "": "src/" }
+    },
+    "autoload-dev": {
+        "psr-4": { "Tests\\": "tests/" }
+    },
+    "require": {
+        "php": ">=5.5.9",
+        "behat/behat": "^3.1"
+    },
+    "config": {
+        "platform": {
+            "php": "5.5.9"
+        }
+    }
+}

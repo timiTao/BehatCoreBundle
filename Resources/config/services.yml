@@ -1,0 +1,4 @@
+services:
+#    timi_tao_behat_core.example:
+#        class: TimiTao\BehatCoreBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]

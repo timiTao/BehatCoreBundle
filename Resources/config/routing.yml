@@ -1,0 +1,3 @@
+timi_tao_behat_core_homepage:
+    path:     /
+    defaults: { _controller: TimiTaoBehatCoreBundle:Default:index }
